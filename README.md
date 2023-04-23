@@ -1,12 +1,6 @@
 <a name="readme-top"></a>
 
-<div align="center">
-<img src="./src/assets/how-to-do-a-capstone-project.jpg" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Metrics webapp</b></h3>
-
-</div>
+<h3><b>Metrics App</b></h3>
 
 # 📗 Table of Contents
 
@@ -14,8 +8,8 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-  - [📺 Presentation](#presentation) 
+    <!-- - [🚀 Live Demo](#live-demo) -->
+  - [📺 Presentation](#presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -31,9 +25,10 @@
 
 # Metrics webapp📖 <a name="about-project"></a>
 
-**Metrics webapp**  This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that we will create making use of React and Redux and will be following this design by [Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
+**Metrics webapp** This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that we will create making use of React and Redux and will be following this design by [Nelson Sakwa on Behance](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>).
 
 We select an API that provides numeric data about a topic that we like and then build the webapp around it. The webapp will have several pages:
+
 - one page with a list of items that could be filtered by some parameters,This page is the homepage.
 - one page for the item details
 
@@ -54,6 +49,7 @@ We select an API that provides numeric data about a topic that we like and then 
     <li><a href="https://www.w3schools.com/css/">CSS</a></li>
     <li><a href="https://www.javascript.com/">javaScript</a></li>
     <li><a href="https://react.dev/">React</a></li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
   </ul>
 </details>
 
@@ -67,12 +63,13 @@ We select an API that provides numeric data about a topic that we like and then 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [You can check the live demo here](https://643d6e77f0f1ad007d2a1498--idyllic-semifreddo-83ba58.netlify.app/)
+<!-- - [You can check the live demo here](https://643d6e77f0f1ad007d2a1498--idyllic-semifreddo-83ba58.netlify.app/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📺 Presentation <a name="presentation"></a>
-- [ScreenRec Presentation](https://screenrec.com/share/dl4csmS2Vn)
+
+<!-- - [ScreenRec Presentation](https://screenrec.com/share/dl4csmS2Vn) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,11 +128,11 @@ You can deploy this project using: github pages or any host of your choice
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Derbal Amine**
+👤 **Akpan Daniel**
 
-- GitHub: [@githubhandle](https://github.com/AmineDerbal)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammed-el-amine-derbal-4038541b6/)
-
+- GitHub: [@danutibe07](https://github.com/danutibe07)
+- Twitter: [@danutibe07](https://twitter.com/Danielutibe07?t=2kvKPTZQ7IGCw2FugE9xCQ&s=09)
+- LinkedIn: [@danutibe07](https://www.linkedin.com/in/akpan-daniel-785888215/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +148,7 @@ You can deploy this project using: github pages or any host of your choice
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AmineDerbal/React-Capstone-project/issues).
+Feel free to check the [issues page](https://github.com/danutibe07/React-Capstone-Project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,7 +161,7 @@ If you like this project please give it a ⭐️.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - [the whole Microverse Community](https://www.microverse.org/)
-- [Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) for his beautiful design
+- [Nelson Sakwa on Behance](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>) for his beautiful design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,7 +169,7 @@ If you like this project please give it a ⭐️.
 
 - **how will i setup this project in local machine**
 
-  - run the following command in the terminal: git clone https://github.com/AmineDerbal/React-Capstone-project.git
+  - run the following command in the terminal: git clone https://github.com/danutibe07/React-Capstone-Project.git
 
 - **which code editor should i use**
 
