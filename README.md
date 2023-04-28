@@ -14,8 +14,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-  - [📺 Presentation](#presentation) 
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -62,17 +60,6 @@ We select an API that provides numeric data about a topic that we like and then 
 - **React front end framwork**
 - **Git-flow**
 - **Es6 module**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [You can check the live demo here](https://643d6e77f0f1ad007d2a1498--idyllic-semifreddo-83ba58.netlify.app/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📺 Presentation <a name="presentation"></a>
-- [ScreenRec Presentation](https://screenrec.com/share/dl4csmS2Vn)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
