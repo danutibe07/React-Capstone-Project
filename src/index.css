@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+:root {
+  --color-text: #fff;
+  --color-back: #1e212c;
+  --color-front: #050b18;
+  --color-btn: #644dda;
+  --body-bg: #2a2c44;
+}
+
+body {
+  background-color: var(--color-front);
+  color: var(--color-text);
+  font-family: 'Roboto Slab', serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin: 2% 6%;
+}
+
+.navbar h1 {
+  font-family: 'Roboto Slab', serif;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  margin-right: 10%;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+.cryptoscontainer {
+  display: grid;
+  gap: 20px;
+}
+
+.cryptocard {
+  width: 220px;
+  height: 220px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cryptoimg {
+  width: 150px;
+  height: 150px;
+}
+
+.searchBar .searchinput {
+  width: 40%;
+  padding: 1.3em;
+  border-radius: 5px;
+  color: var(--color-front);
+  outline: none;
+  font-size: 20px;
+  margin-left: 5%;
+}
+
+@media (min-width: 375px) {
+  .cryptoscontainer {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+@media (min-width: 640px) {
+  .cryptoscontainer {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 860px) {
+  .cryptoscontainer {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1020px) {
+  .cryptoscontainer {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.details-container {
+  text-align: center;
+  align-content: center;
+}
+
+.details-container table {
+  position: relative;
+  text-align: center;
+  display: grid;
+  place-items: center;
+}
+
+.back {
+  margin-left: 5%;
+}
