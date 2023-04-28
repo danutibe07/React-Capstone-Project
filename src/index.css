@@ -14,7 +14,8 @@
 body {
   background-color: var(--color-front);
   color: var(--color-text);
-  font-family: 'Lato', sans-serif;}
+  font-family: 'Lato', sans-serif;
+}
 
 .navbar {
   display: flex;
@@ -23,7 +24,8 @@ body {
 }
 
 .navbar h1 {
-  font-family: 'Lato', sans-serif;}
+  font-family: 'Lato', sans-serif;
+}
 
 .navbar ul {
   list-style: none;
