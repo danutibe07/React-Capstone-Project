@@ -25,7 +25,7 @@ describe('Test Home Route', () => {
   it('should render a div container', () => {
     render(
       <Provider store={store}>
-            <Cryptos />
+        <Cryptos />
       </Provider>,
     );
     const page = screen.getByTestId('cryptoItem');
@@ -98,7 +98,7 @@ describe('home component', () => {
     render(
       <Router>
         <Provider store={store}>
-        <Cryptos />
+          <Cryptos />
         </Provider>
         ,
       </Router>,
