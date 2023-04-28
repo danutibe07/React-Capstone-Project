@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => (
   <div className="navbar">
-    <h1>Metrics App</h1>
+    <h1>Metrics WebApp</h1>
   </div>
 );
 
