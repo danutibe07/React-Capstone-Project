@@ -118,10 +118,10 @@ You can deploy this project using: github pages or any host of your choice
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Derbal Amine**
+👤 **Akpan Daniel**
 
-- GitHub: [@githubhandle](https://github.com/AmineDerbal)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammed-el-amine-derbal-4038541b6/)
+- GitHub: [@githubhandle](https://github.com/danutibe07)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/danutibe07/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -138,7 +138,7 @@ You can deploy this project using: github pages or any host of your choice
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AmineDerbal/React-Capstone-project/issues).
+Feel free to check the [issues page](https://github.com/danutibe07/React-Capstone-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
