@@ -8,6 +8,8 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [Live Demo](#live-demo)`
+    - [Demo Presentation](#demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -56,6 +58,16 @@ We select an API that provides numeric data about a topic that we like and then 
 - **React front end framwork**
 - **Git-flow**
 - **Es6 module**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Live Demo <a name="live-demo"></a>
+- [Live App](https://metrics-dxaz.onrender.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Demo Presentation <a name="demo"></a>
+- [Demo Presentation](https://www.loom.com/share/fc7dcbd2b84344eb8f83772bd0c86bf7)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
